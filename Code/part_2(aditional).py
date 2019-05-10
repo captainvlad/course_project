@@ -1,7 +1,6 @@
 import datetime as dt
 import matplotlib.pyplot as plt
 from matplotlib import style
-import pandas as pt
 import pandas_datareader.data as web
 
 style.use('ggplot')
@@ -12,8 +11,6 @@ end = dt.datetime(a.year, a.month, a.day)
 
 
 df = web.DataReader('AAPL', 'yahoo', start, end)
-
-#df.to_csv('work.csv')
 
 df['High'].plot()
 df['Low'].plot()

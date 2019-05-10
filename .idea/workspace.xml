@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff698de7-8aed-458d-a6a7-56b04a52db47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Курсова.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/ADT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/general.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/part_2(aditional).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/part_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/part_4(logo).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/part_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/work.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Etap 3/ADT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Etap 3/ClassesDiagrame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Etap 3/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Etap 3/company_trades_and_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Etap 3/general.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Etap 3/part_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/part_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/part_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/part_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/part_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/part_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
+            <state relative-caret-position="1598">
               <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -63,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/ADT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-501">
+            <state relative-caret-position="306">
               <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -75,7 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Etap 3/general.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="272">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -86,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/general.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -179,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,25 +165,16 @@
               <item name="Курсова" type="b2602c69:ProjectViewProjectNode" />
               <item name="Курсова" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Курсова" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Курсова" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Курсова" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Курсова" type="462c0819:PsiDirectoryNode" />
-              <item name="Etap 3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2 semestr/lab/lab_12" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -355,22 +324,23 @@
       <workItem from="1554888859121" duration="3372000" />
       <workItem from="1554895306401" duration="12028000" />
       <workItem from="1555654117404" duration="12961000" />
-      <workItem from="1555750556735" duration="6551000" />
+      <workItem from="1555750556735" duration="7148000" />
+      <workItem from="1555871104898" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34912000" />
+    <option name="totallyTimeSpent" value="35548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31303117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,8 +434,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/part_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
+        <state relative-caret-position="1598">
           <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/ADT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/general.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -479,29 +469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/general.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/ADT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-501">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Etap 3/general.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="272">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
