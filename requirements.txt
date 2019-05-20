@@ -1,0 +1,10 @@
+following modules are needed to provide the program:
+-iexfinance
+-alpha_vantage
+-ctypes
+-datetime
+-matplotlib
+-pandas_datareader
+-tkinter
+-time
+-PIL
