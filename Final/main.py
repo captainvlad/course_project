@@ -14,6 +14,7 @@ class Start:
         obj -> None
         This method initializes an object
         '''
+        self.conti = True
         self.wrong = False
         self.element_1 = StartingWindow()
         if self.element_1.name != 'quit' and len(self.element_1.name) > 0:
@@ -22,8 +23,6 @@ class Start:
             self.get_rep()
             if self.element_2 != None:
                 a = Represent()
-                if a.continu == True:
-                    Start()
 
 
 
@@ -48,8 +47,6 @@ class Start:
         except:
             HelpWindow(4)
             self.wrong = True
-
-
 
 
 a = Start()

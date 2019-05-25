@@ -40,9 +40,6 @@ class Represent:
         button = Button(self.root, text = "    Finish work!    ", bg = 'turquoise', fg = 'white', command = self.close)
         button.pack(side = BOTTOM)
 
-        button_2 = Button(self.root, text="Discover next firm", bg='turquoise', fg='white', command=self.contin)
-        button_2.pack(side=BOTTOM)
-
         self.root.mainloop()
 
     def close(self):
@@ -51,11 +48,3 @@ class Represent:
         This method closes the window
         '''
         self.root.destroy()
-
-    def contin(self):
-        '''
-        obj -> None
-        This method closes the window and creates one more to continue working
-        '''
-        self.root.destroy()
-        self.continu = True
